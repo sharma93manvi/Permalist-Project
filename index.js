@@ -71,3 +71,13 @@ app.post("/delete", async(req, res) => {
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
+
+
+/*
+UPGRADE:
+
+1. Sort by Creation Date
+2. Multiple Lists (Work/School)
+3. Family To Do lists
+
+*/
